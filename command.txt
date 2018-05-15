@@ -1,0 +1,1 @@
+python run.py --mode=test --image1=..\Dataset\cuhk03_release\labeled\val\0000_00.jpg --image2=..\Dataset\cuhk03_release\labeled\val\0000_09.jpg
